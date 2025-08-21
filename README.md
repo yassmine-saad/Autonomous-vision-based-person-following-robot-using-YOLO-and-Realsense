@@ -126,7 +126,7 @@ python3 person_following.py
 
 ## 📬 Contact
 
-📧 [yassminesaad75@gmail.com](mailto:yesmiin.saad@gmail.com)
+📧 [yesmiin.saad@gmail.com](mailto:yesmiin.saad@gmail.com)
 🔗 [LinkedIn – Yasmine saad](https://www.linkedin.com/in/yasmine-saad/)
 
 ---
